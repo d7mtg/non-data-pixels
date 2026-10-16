@@ -1,0 +1,4 @@
+interface:
+  display_name: "Non-data pixels"
+  short_description: "Remove extra text without losing useful meaning"
+  default_prompt: "Use $non-data-pixels to write or clean up this text in my style, keeping the information people need."
