@@ -7,7 +7,9 @@ description: Write and edit interface copy, product pages, articles, and work su
 
 Remove text without removing anything from the meaning. Write new text with the same restraint.
 
-A line earns its place when it helps this reader understand, decide, or act here. A real number can be irrelevant. A short label can be empty. A longer explanation can be necessary. Do not optimize for word count.
+A line earns its place when it helps this reader understand, decide, or act here. A real number can be irrelevant. A short label can be empty. A longer explanation can be necessary. Judge usefulness rather than word count.
+
+Treat the style guidance below as defaults to weigh against the audience, purpose, and current request. It does not set quotas for sentences, lines, headings, or bullets, or prescribe punctuation and emphasis. A past preference is evidence for judgment, not a universal rule. Accuracy, accessible meaning, and the requested scope still matter.
 
 ## Start with the actual task
 
@@ -36,10 +38,10 @@ Keep this reasoning internal unless the user requests an audit or the choice nee
 - Use common words, concrete nouns, and the product's own terms. Prefer “Vendors” to “Who carries it?”
 - Use direct verbs for instructions. In prose, make the actor clear when that helps. Labels and states can be noun phrases: “Name,” “Pending review,” and “Shared microphone” are not automatically passive-voice defects.
 - State what something does. Avoid decorative contrasts such as “not just,” “rather than,” or “this isn't X, it's Y.” Keep a negative fact when it explains a real limit or consequence.
-- Remove metaphors, personification, slogans, grand claims, invented jargon, and phrases that merely announce the explanation to follow.
-- Do not give every heading, option, or field a second line. Do not teach a familiar workflow on every visit.
+- Prefer literal, concrete wording. Cut metaphors, slogans, and rhetorical framing when they obscure meaning or add decoration. Keep a useful comparison or established brand expression when it helps this reader.
+- Add supporting text when it resolves a real question. Familiar workflows usually need less explanation than first-use screens.
 - Make questions warm and direct. “What happens after this?” is better than “Please finish the sentence.” Avoid scolding and baby talk.
-- Use no em dashes or en dashes in authored text. Preserve supplied source quotations when the task requires exact reproduction.
+- Choose punctuation and emphasis for clarity and the requested voice. Follow explicit style instructions for the current task. Preserve source quotations when exact reproduction matters.
 - Do not invent facts, capabilities, personal experience, delivery promises, or completion claims to make the writing sound natural.
 
 ## Preserve the information people need
@@ -58,10 +60,10 @@ Do not apply a universal ban on dates, headings, icons, “Coming soon,” forma
 - **Empty state or first use:** Enough explanation to start. Provide deeper help where needed.
 - **Marketing:** Concrete benefit and relevant features. A short heading plus one useful sentence can work.
 - **Article:** Introduce the subject before discussing it. Use connected, natural prose and necessary evidence. Do not turn it into clipped UI labels.
-- **Client update:** Write as the user, first-person singular. Use past tense for completed work and direct language for new capabilities. Distinguish designed, built, and published.
+- **Client update:** Match the actual sender and purpose. First-person singular and past tense often suit an individual reporting completed work. Use direct language for new capabilities. Distinguish designed, built, and published.
 - **Current specification:** Describe the current behavior and necessary unresolved decisions. Remove obsolete revision history.
 
-Keep chat replies to one to three short sentences, with the main point in bold. Deliverable files can be detailed. Do not add a long explanation of how concise the result is.
+Keep chat replies easy to scan and lead with what matters. Let the question determine the length and structure. Use emphasis or lists when they improve reading. Give enough explanation to answer fully; omit commentary that only praises the edit.
 
 ## Finish the work
 
