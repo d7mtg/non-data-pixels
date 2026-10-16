@@ -54,7 +54,7 @@ Lead with the useful result. Match length and detail to the question, the reader
 
 Cut commentary that only announces the cleanup, repeats the answer, or adds a generic offer. Include a next step or summary when it serves a real need. Choose wording and punctuation for clear reading rather than to satisfy a style checklist.
 
-There is no fixed sentence or line limit. A short status update and a detailed explanation need different amounts of text. The measure is whether each part helps the reader.
+A short status update and a detailed explanation need different amounts of text. Include what helps the reader understand and act.
 
 ## Keeping preferences accurate
 

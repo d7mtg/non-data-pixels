@@ -9,7 +9,7 @@ Remove text without removing anything from the meaning. Write new text with the 
 
 A line earns its place when it helps this reader understand, decide, or act here. A real number can be irrelevant. A short label can be empty. A longer explanation can be necessary. Judge usefulness rather than word count.
 
-Treat the style guidance below as defaults to weigh against the audience, purpose, and current request. It does not set quotas for sentences, lines, headings, or bullets, or prescribe punctuation and emphasis. A past preference is evidence for judgment, not a universal rule. Accuracy, accessible meaning, and the requested scope still matter.
+Adapt the style guidance to the audience, purpose, and current request. Choose length, structure, punctuation, and emphasis for clear reading. Preserve accuracy, accessible meaning, and the requested scope.
 
 ## Start with the actual task
 
